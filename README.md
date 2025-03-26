@@ -1,4 +1,4 @@
-# PROJTO PESSOAL ESTATÍSTICAS DE UM JOGADOR DE FUTEBOL 
+# PROJETO PESSOAL ESTATÍSTICAS DE UM JOGADOR DE FUTEBOL 
 O código trata de calcular estatísticas de um jogador de futebol (gols, assistências, cartões e jogos). Ele faz o seguinte:
 
 A função principal calculatePlayerStats soma os valores de gols, assistências e cartões, além de contar o número total 
